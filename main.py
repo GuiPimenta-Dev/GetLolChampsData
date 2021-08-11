@@ -1,7 +1,7 @@
-from bots.league_of_graphs_bot import LeagueOfGraphsBot
+import pandas as pd
+
 from bots.facebook_bot import FacebookBot
 from multi_thread_bot import MultiThreadBot
-import pandas as pd
 
 MAX_THREADS = 5
 
