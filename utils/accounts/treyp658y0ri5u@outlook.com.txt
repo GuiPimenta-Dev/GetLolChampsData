@@ -1,0 +1,37 @@
+ACESSO EMAIL
+
+https://outlook.com
+
+Senha email
+
+puU8A6r56A
+
+Senha facebook
+
+senha@1234
+
+23 de dezembro 1997
+
+[{"domain": ".facebook.com", "expiry": 1646324796, "httpOnly": false, "name": "c_user", "path": "/", "secure": true, "value": "100003395688580"}, {"domain": ".facebook.com", "httpOnly": false, "name": "datr", "path": "/", "secure": true, "value": "aEU6YD8IsI2VhNVgqmHMzjFw"}, {"domain": ".facebook.com", "expiry": 1646324796, "httpOnly": true, "name": "xs", "path": "/", "secure": true, "value": "25%3A3nBYMNDnarwo3A%3A2%3A1614788797%3A13812%3A8970"}, {"domain": ".facebook.com", "httpOnly": false, "name": "x-referer", "path": "/", "secure": true, "value": "eyJyIjoiL2Vycm9yL2luZGV4LnBocD9lcnI9ZWMma2Vycj0xMzU3MDAxJmtlcnJfc3VtbWFyeT1Ob3QlMjBMb2dnZWQlMjBJbiZrZXJyX2Rlc2NyaXB0aW9uPVBsZWFzZSUyMGxvZyUyMGluJTIwdG8lMjBjb250aW51ZS4iLCJoIjoiL2Vycm9yL2luZGV4LnBocD9lcnI9ZWMma2Vycj0xMzU3MDAxJmtlcnJfc3VtbWFyeT1Ob3QlMjBMb2dnZWQlMjBJbiZrZXJyX2Rlc2NyaXB0aW9uPVBsZWFzZSUyMGxvZyUyMGluJTIwdG8lMjBjb250aW51ZS4iLCJzIjoibSJ9"}, {"domain": ".facebook.com", "expiry": 1615393599, "httpOnly": false, "name": "wd", "path": "/", "secure": true, "value": "617x268"}, {"domain": ".facebook.com", "httpOnly": false, "name": "m_pixel_ratio", "path": "/", "secure": true, "value": "1"}, {"domain": ".facebook.com", "expiry": 1622564794, "httpOnly": true, "name": "fr", "path": "/", "secure": true, "value": "1gbcghihee16HLIdj.AWVbFOVkWbcGPYJjemBLJ7C9-vA.BgP7ix.uE.AAA.0.0.BgP7i9.AWU3ll-Zyzg"}, {"domain": ".facebook.com", "expiry": 1677860798, "httpOnly": true, "name": "sb", "path": "/", "secure": true, "value": "sbg_YKBZfficMsCI9wcXAG5e"}]
+
+
+CODE #1
+1505 1955
+CODE #2
+3571 9323
+CODE #3
+3701 8660
+CODE #4
+3715 9026
+CODE #5
+5985 0846
+CODE #6
+7588 0729
+CODE #7
+7732 7792
+CODE #8
+8450 1639
+CODE #9
+8742 5532
+CODE #10
+9902 6413

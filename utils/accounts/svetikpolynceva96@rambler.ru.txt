@@ -1,0 +1,43 @@
+ACESSO EMAIL
+
+https://outlook.com
+
+Senha email
+
+j5k0jdkp4
+
+Senha facebook
+
+senha@1234
+
+
+
+1 de janeiro 1905
+
+
+
+
+[{"domain": ".facebook.com", "expiry": 1648843928, "httpOnly": false, "name": "c_user", "path": "/", "secure": true, "value": "100025076072287"}, {"domain": ".facebook.com", "expiry": 1625083926, "httpOnly": true, "name": "fr", "path": "/", "secure": true, "value": "1Ve2n5netZ3YpsxQk.AWXHOlW3d0MaAxBOXS3PDqo25wg.BgZikG.t8.AAA.0.0.BgZikZ.AWWK6nnpx9I"}, {"domain": ".facebook.com", "httpOnly": false, "name": "datr", "path": "/", "secure": true, "value": "QFxjYBD22NYQapzjFXF4pr4_"}, {"domain": ".facebook.com", "expiry": 1617912731, "httpOnly": false, "name": "m_pixel_ratio", "path": "/", "secure": true, "value": "3"}, {"domain": ".facebook.com", "expiry": 1617912731, "httpOnly": false, "name": "wd", "path": "/", "secure": true, "value": "375x812"}, {"domain": ".facebook.com", "expiry": 1648843928, "httpOnly": true, "name": "xs", "path": "/", "secure": true, "value": "25%3ApFSf7xUQ52OgUA%3A2%3A1617307929%3A9182%3A1841"}, {"domain": ".facebook.com", "httpOnly": false, "name": "x-referer", "path": "/", "secure": true, "value": "eyJyIjoiL2Vycm9yL2luZGV4LnBocD9lcnI9ZWMma2Vycj0xMzU3MDAxJmtlcnJfc3VtbWFyeT1Mb2clMjBpbiUyMHRvJTIwY29udGludWUma2Vycl9kZXNjcmlwdGlvbj1QbGVhc2UlMjBsb2clMjBpbiUyMHRvJTIweW91ciUyMGFjY291bnQuIiwiaCI6Ii9lcnJvci9pbmRleC5waHA%2FZXJyPWVjJmtlcnI9MTM1NzAwMSZrZXJyX3N1bW1hcnk9TG9nJTIwaW4lMjB0byUyMGNvbnRpbnVlJmtlcnJfZGVzY3JpcHRpb249UGxlYXNlJTIwbG9nJTIwaW4lMjB0byUyMHlvdXIlMjBhY2NvdW50LiIsInMiOiJtIn0%3D"}, {"domain": ".facebook.com", "expiry": 1680379930, "httpOnly": true, "name": "sb", "path": "/", "secure": true, "value": "BilmYLxJG8lSvKmUKmydQJqJ"}]
+
+
+
+CODE #1
+1006 5051
+CODE #2
+2797 4066
+CODE #3
+3067 0422
+CODE #4
+3230 2088
+CODE #5
+3720 7497
+CODE #6
+7182 9886
+CODE #7
+8808 7436
+CODE #8
+9046 5882
+CODE #9
+9414 7861
+CODE #10
+9709 4899

@@ -1,0 +1,38 @@
+ACESSO EMAIL
+
+https://outlook.com
+
+Senha email
+
+r7kEPXTM
+
+Senha facebook
+
+senha@1234
+
+
+5 de outubro 1986
+
+[{"domain": ".facebook.com", "expiry": 1649116287, "httpOnly": false, "name": "c_user", "path": "/", "secure": true, "value": "100003689256881"}, {"domain": ".facebook.com", "expiry": 1625356285, "httpOnly": true, "name": "fr", "path": "/", "secure": true, "value": "1YkacsDZBllZ3xTEt.AWX86AyTsRMpInVLvYGg65eTsd0.BgalDF.Ge.AAA.0.0.BgalD_.AWWO9fJShuU"}, {"domain": ".facebook.com", "httpOnly": false, "name": "datr", "path": "/", "secure": true, "value": "rdZkYB6-p9dHEgRKEBJq3MOW"}, {"domain": ".facebook.com", "expiry": 1649116287, "httpOnly": true, "name": "xs", "path": "/", "secure": true, "value": "24%3A4_6j9KM7hwdSnw%3A2%3A1617580287%3A14230%3A4866"}, {"domain": ".facebook.com", "httpOnly": false, "name": "x-referer", "path": "/", "secure": true, "value": "eyJyIjoiL2Vycm9yL2luZGV4LnBocD9lcnI9ZWMma2Vycj0xMzU3MDAxJmtlcnJfc3VtbWFyeT1Mb2clMjBpbiUyMHRvJTIwY29udGludWUma2Vycl9kZXNjcmlwdGlvbj1QbGVhc2UlMjBsb2clMjBpbiUyMHRvJTIweW91ciUyMGFjY291bnQuIiwiaCI6Ii9lcnJvci9pbmRleC5waHA%2FZXJyPWVjJmtlcnI9MTM1NzAwMSZrZXJyX3N1bW1hcnk9TG9nJTIwaW4lMjB0byUyMGNvbnRpbnVlJmtlcnJfZGVzY3JpcHRpb249UGxlYXNlJTIwbG9nJTIwaW4lMjB0byUyMHlvdXIlMjBhY2NvdW50LiIsInMiOiJtIn0%3D"}, {"domain": ".facebook.com", "expiry": 1618185092, "httpOnly": false, "name": "m_pixel_ratio", "path": "/", "secure": true, "value": "3"}, {"domain": ".facebook.com", "expiry": 1618185092, "httpOnly": false, "name": "wd", "path": "/", "secure": true, "value": "375x812"}, {"domain": ".facebook.com", "expiry": 1680652289, "httpOnly": true, "name": "sb", "path": "/", "secure": true, "value": "xVBqYBUCBpdlmK8BVFHS2qjX"}]
+
+
+CODE #1
+0185 0264
+CODE #2
+2282 7928
+CODE #3
+3033 9556
+CODE #4
+3811 8543
+CODE #5
+4042 4855
+CODE #6
+4378 6037
+CODE #7
+5115 9842
+CODE #8
+6807 0843
+CODE #9
+9415 2645
+CODE #10
+9577 6590

@@ -1,0 +1,37 @@
+ACESSO EMAIL
+
+https://outlook.com
+
+Senha email
+
+IBEYbGsPR4r
+
+Senha facebook
+
+senha@123
+
+July 5 1999
+
+[{"domain": ".facebook.com", "expiry": 1649116335, "httpOnly": false, "name": "c_user", "path": "/", "secure": true, "value": "100007613445195"}, {"domain": ".facebook.com", "expiry": 1625356332, "httpOnly": true, "name": "fr", "path": "/", "secure": true, "value": "1e9cHNE4Mq6LRQsOd.AWUq2WxoqBvG9IiT91i_eAHJMvs.BgalEF.Vk.AAA.0.0.BgalEv.AWXngF_qVUQ"}, {"domain": ".facebook.com", "httpOnly": false, "name": "datr", "path": "/", "secure": true, "value": "NNBkYPDcIHMEXuUKDI7hbHaj"}, {"domain": ".facebook.com", "expiry": 1618185141, "httpOnly": false, "name": "m_pixel_ratio", "path": "/", "secure": true, "value": "3"}, {"domain": ".facebook.com", "expiry": 1618185141, "httpOnly": false, "name": "wd", "path": "/", "secure": true, "value": "375x812"}, {"domain": ".facebook.com", "expiry": 1649116335, "httpOnly": true, "name": "xs", "path": "/", "secure": true, "value": "33%3ADdOCWLhT1gJF6A%3A2%3A1617580335%3A9245%3A2529"}, {"domain": ".facebook.com", "httpOnly": false, "name": "x-referer", "path": "/", "secure": true, "value": "eyJyIjoiL2Vycm9yL2luZGV4LnBocD9lcnI9ZWMma2Vycj0xMzU3MDAxJmtlcnJfc3VtbWFyeT1Mb2clMjBpbiUyMHRvJTIwY29udGludWUma2Vycl9kZXNjcmlwdGlvbj1QbGVhc2UlMjBsb2clMjBpbiUyMHRvJTIweW91ciUyMGFjY291bnQuIiwiaCI6Ii9lcnJvci9pbmRleC5waHA%2FZXJyPWVjJmtlcnI9MTM1NzAwMSZrZXJyX3N1bW1hcnk9TG9nJTIwaW4lMjB0byUyMGNvbnRpbnVlJmtlcnJfZGVzY3JpcHRpb249UGxlYXNlJTIwbG9nJTIwaW4lMjB0byUyMHlvdXIlMjBhY2NvdW50LiIsInMiOiJtIn0%3D"}, {"domain": ".facebook.com", "expiry": 1680652338, "httpOnly": true, "name": "sb", "path": "/", "secure": true, "value": "BVFqYOwYq0TVP-Cu0axr1BTa"}]
+
+
+CODE #1
+0676 6825
+CODE #2
+1319 3180
+CODE #3
+1725 7207
+CODE #4
+2207 6469
+CODE #5
+2582 2322
+CODE #6
+5021 0849
+CODE #7
+5439 1114
+CODE #8
+6352 2751
+CODE #9
+6876 2844
+CODE #10
+7147 2419
