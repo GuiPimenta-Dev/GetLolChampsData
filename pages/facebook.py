@@ -66,4 +66,4 @@ class FacebookPage(BasePage):
         )
         comment.send_keys('Muito bom o produto!')
         comment.send_keys(Keys.RETURN)
-        return "SUCESS"
+        return "SUCCESS"

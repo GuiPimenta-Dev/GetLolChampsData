@@ -1,0 +1,36 @@
+ACESSO EMAIL
+
+https://outlook.live.com/
+
+Senha email
+
+1Py5rM5hP
+
+Senha facebook
+
+senha@123
+
+dia 1 de Setembro 2000
+
+[{"domain": ".facebook.com", "expiry": 1656715144, "httpOnly": true, "name": "xs", "path": "/", "secure": true, "value": "24%3ANeEl2eCgf6Z1bg%3A2%3A1625179148%3A-1%3A7164"}, {"domain": ".facebook.com", "expiry": 1656715144, "httpOnly": false, "name": "c_user", "path": "/", "secure": true, "value": "100055143391109"}, {"domain": ".facebook.com", "httpOnly": false, "name": "datr", "path": "/", "secure": true, "value": "zw2GYL_23RNmbhkr_DA3cSsk"}, {"domain": ".facebook.com", "expiry": 1625783950, "httpOnly": false, "name": "wd", "path": "/", "secure": true, "value": "667x368"}, {"domain": ".facebook.com", "httpOnly": false, "name": "m_pixel_ratio", "path": "/", "secure": true, "value": "1"}, {"domain": ".facebook.com", "expiry": 1632955139, "httpOnly": true, "name": "fr", "path": "/", "secure": true, "value": "1UnRb8ILb7n4hbPf3.AWWJv8veyBbwpUEh6AzyxmNGVd8.BgeMgF.AX.AAA.0.0.Bg3kQJ.AWVk46g_lv8"}, {"domain": ".facebook.com", "expiry": 1688251149, "httpOnly": true, "name": "sb", "path": "/", "secure": true, "value": "BETeYIweP29uuj4_A-7txxjZ"}]	
+
+CODE #1
+0972 2271
+CODE #2
+2288 2287
+CODE #3
+3021 0537
+CODE #4
+3405 2224
+CODE #5
+6192 8690
+CODE #6
+6839 8772
+CODE #7
+7650 9804
+CODE #8
+7735 3465
+CODE #9
+8380 0056
+CODE #10
+8624 5392
